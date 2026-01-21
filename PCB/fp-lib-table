@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PyBoardTester FootprintLib")(type "KiCad")(uri "${KIPRJMOD}/OE PyBoard tester FootprintLib")(options "")(descr ""))
+  (lib (name "_footprintLib")(type "KiCad")(uri "${KIPRJMOD}/_footprintLib.pretty")(options "")(descr ""))
+)
